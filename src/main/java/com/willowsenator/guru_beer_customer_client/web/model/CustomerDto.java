@@ -1,4 +1,4 @@
-package com.willowsenator.guru_beerCustomer_client.web.model;
+package com.willowsenator.guru_beer_customer_client.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

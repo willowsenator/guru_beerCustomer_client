@@ -1,6 +1,6 @@
-package com.willowsenator.guru_beerCustomer_client.web.client;
+package com.willowsenator.guru_beer_customer_client.web.client;
 
-import com.willowsenator.guru_beerCustomer_client.web.model.CustomerDto;
+import com.willowsenator.guru_beer_customer_client.web.model.CustomerDto;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.stereotype.Component;

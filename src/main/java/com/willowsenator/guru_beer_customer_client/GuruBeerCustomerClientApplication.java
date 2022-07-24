@@ -1,4 +1,4 @@
-package com.willowsenator.guru_beerCustomer_client;
+package com.willowsenator.guru_beer_customer_client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

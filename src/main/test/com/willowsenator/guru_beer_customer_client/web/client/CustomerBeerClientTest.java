@@ -1,6 +1,6 @@
-package com.willowsenator.guru_beerCustomer_client.web.client;
+package com.willowsenator.guru_beer_customer_client.web.client;
 
-import com.willowsenator.guru_beerCustomer_client.web.model.CustomerDto;
+import com.willowsenator.guru_beer_customer_client.web.model.CustomerDto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
